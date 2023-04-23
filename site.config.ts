@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Nikolas Krinitsyn',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'krinitsyn.vercel.app',
   author: 'Nikolas Krinitsyn',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'This is a place where I store and share all my sermon notes',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'krinitsyn2002',
+  github: 'nikolas-krinitsyn',
+  linkedin: 'nikolas-krinitsyn-9491b61a9',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
